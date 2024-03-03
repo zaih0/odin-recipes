@@ -1,0 +1,30 @@
+*{
+    background-color:#800000 ;
+   }
+
+#title{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.content{
+    color: white;
+}
+
+.list{
+    color: white;
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a {
+    color: white;
+}
+
+img{
+    width: 310px;
+    height:310px;
+}
